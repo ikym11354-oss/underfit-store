@@ -135,7 +135,7 @@ export default function Home() {
 
       {/* 4. FOOTER */}
       <footer className="bg-white border-t py-8 text-center text-gray-500 text-sm">
-        <p>&copy; {new Date().getFullYear()} Underfit Store. All rights reserved.</p>
+        <p>&copy; 2026 Underfit Store. All rights reserved.</p>
       </footer>
 
     </div>
